@@ -95,6 +95,8 @@ raw_house_members %>%
 
 Im Endeffekt sind wir vor allem an den Namen der Abgeordneten interessiert. Wir möchten nun nämlich zu den einzelnen Abgeordneten ihre zugehörigen Spenden finden. Das ermöglicht uns die [FEC-API](https://api.open.fec.gov/developers/). 
 
+Der folgendenden Beschreibungen wurden aus einem Kurs von CorrelAid übernommen. Credit dafür an: Frie Preu!
+
 Was sind APIs überhaupt?
 
 Eine API (*Application Programming Interface*, de: Schnittstelle zur Programmierung von Anwendungen) ist eine Schnittstelle, die ein System bereitstellt, um anderen Programmen die Interaktion zu ermöglichen.
